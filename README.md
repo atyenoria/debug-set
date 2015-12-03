@@ -9,3 +9,9 @@ alias ,="cd \`pbpaste| xargs dirname\`"
 ##Add webstorm.kmarcros to keyboardmaestro
 
 ##set properly pycharm,webstorm...etc
+
+
+
+##sublimetext
+{ "keys": ["super+i"], "command": "copy_path" }
+
