@@ -74,6 +74,14 @@
 					<key>NewFile</key>
 					<string>/Applications/PyCharm CE.app</string>
 				</dict>
+				<dict>
+					<key>BundleIdentifier</key>
+					<string>com.jetbrains.PhpStorm</string>
+					<key>Name</key>
+					<string>PhpStorm</string>
+					<key>NewFile</key>
+					<string>/Applications/PhpStorm.app</string>
+				</dict>
 			</array>
 		</dict>
 		<key>UID</key>
